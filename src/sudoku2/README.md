@@ -30,3 +30,10 @@ of which has to be valid:
 8
 ```
 
+## Example of * in Python
+
+```
+grid = [[1, 2], [3, 4], [5, 6]]
+zip(*grid) # this is the same as calling zip([1,2], [3,4], [5,6])
+zip(grid) # this is zip([[1, 2], [3, 4], [5, 6]])
+```
