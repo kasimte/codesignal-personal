@@ -22,11 +22,3 @@ Example:
 
 Since `begin` and `end` are not specified, the whole string is used,
 and `-1` steps through the string backwards.
-
-Update: It actually, looks like `reverse` was added to strings in
-Python:
-
-```
-irb(main):047:0> "hello".reverse
-=> "olleh"
-```
