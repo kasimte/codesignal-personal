@@ -1,4 +1,3 @@
-
 def areFollowingPatterns(strings, patterns):
     '''Given an array strings, determine whether it follows the sequence
 given in the patterns array. In other words, there should be no i and

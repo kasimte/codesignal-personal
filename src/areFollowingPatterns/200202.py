@@ -3,8 +3,7 @@ def convertArray(array):
     for i, a in enumerate(array):
         if a not in hash:
             hash[a] = i
-    retval = [hash[a] for a in array]
-    return retval
+    return [hash[a] for a in array]
 
 
 def areFollowingPatterns(strings, patterns):
