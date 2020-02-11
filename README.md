@@ -1,7 +1,7 @@
-# CodeSignal Solutions
+# Coding Challenges
 
-This is a repository of solutions to CodeSignal problems, including
-learning notes.
+This is a repository of personal solutions to coding challenges, including
+learning notes, from apps like CodeSignal.
 
 Each solution is a subdirectory under the `src` directory.
 
